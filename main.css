@@ -1,0 +1,23 @@
+.services{
+    text-align: center;
+    
+}
+p{
+    font-size: 12px;
+    font-weight: bold;
+    color:darkgrey;
+    margin-bottom: 20px;
+    
+}
+
+
+.s{
+    display: inline-block;
+    width: 30% ;
+    
+}
+
+
+.clearfix{
+    clear:left;
+}
